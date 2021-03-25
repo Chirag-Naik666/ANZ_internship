@@ -12,6 +12,6 @@ exploratory data analysis- ANZ_EDA.ipynb
 
 salary_prediction- ANZ_prediction.ipynb
 
-### Models used- Linear Regression Model, Decition Tree Regressor.
+### Models used- Linear Regression Model, Decision Tree Regressor.
 
 ### Conclusion- due to the limited 100 customer details could achieve R-squared accuracy of just 0.30
